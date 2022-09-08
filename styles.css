@@ -1,0 +1,133 @@
+body {
+    background-image: url("Background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.aboutmemiddle {
+    width: 550px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 0px auto;   
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px black;
+    position: relative;
+    bottom: 1200px;
+}
+h1 {
+    color: white;
+    border: 3px solid black;
+    border-style: dotted;
+    text-shadow: 3px 3px black;
+}
+.secondPortfolioBox {
+    width: 550px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 5px auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    text-shadow: 3px 3px black;
+    bottom: 1200px;
+}
+.workexamplesBox {
+    width: 140px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 5px auto;
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 1200px;
+}
+.workexamplesBox2 {
+    width: 140px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 5px;
+    color: black;
+    text-align: left;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.leftboxHigh {
+    width: 175px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 15px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -280px;
+    left: 425px;
+    text-shadow: 3px 3px black;
+}
+.leftboxHighPicture {
+    top: -10px;
+    left: 15px;
+    color: white;
+    position: relative;
+    display: inline;
+}
+.leftboxBottomPicture {
+    top: 270px;
+    left: -620px;
+    position: relative;
+    color: white;
+    display: inline;
+}
+.leftboxBottom {
+    width: 160px;
+    padding: 5px;
+    border: 5px solid black;
+    color: white;
+    margin: 15px;
+    text-align: center;
+    position: relative;
+    top: -495px;
+    left: 0px;
+    text-shadow: 3px 3px black;
+}
+.rightboxHigh {
+    width: 160px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 15px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -540px;
+    left: 1250px;
+    text-shadow: 3px 3px black;
+}
+.rightboxHighPicture {
+    top: -15px;
+    left: 1050px;
+    color: white;
+    position: relative;
+    display: inline;
+}
+.rightboxBottom {
+    width: 175px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: 15px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -750px;
+    left: 1660px;
+    text-shadow: 3px 3px black;
+}
+.rightboxBottomPicture {
+    top: 260px;
+    left: 0px;
+    color: white;
+    position: relative;
+    display: inline;
+}
